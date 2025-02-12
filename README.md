@@ -1,13 +1,14 @@
 ## Hi! I am Saima Mengal, and I'm an AI and Machine Learning Developer | Innovator.
+I am passionate about leveraging AI and technology to solve real-world problems. With expertise in **Python**, **C++**, and **C**, I enjoy building impactful projects in **machine learning**, **deep learning**, **computer vision**, and **NLP**.  
 
+Currently, I am exploring advanced ML concepts and deep learning frameworks, and I focus on creating meaningful solutions that bridge the gap between AI and everyday life.
+
+---
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaimaMengal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaimaMengal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+  
 
 <img align="right" height="150" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="AI GIF" />
 
@@ -32,7 +33,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:saimamengal1@gmail.com">
+  <a href="mailto:saimamengal@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://github.com/SaimaMengal">
