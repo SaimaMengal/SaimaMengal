@@ -1,6 +1,6 @@
 ## Hi! I am Saima Mengal, and I'm an AI and Machine Learning Developer | Innovator.
 
-I am passionate about leveraging AI and technology to solve real-world problems. With expertise in **Python**, **Deep Learning**, and **Computer Vision**, I enjoy building impactful projects like my recent **Skincare Recommendation System** using MobileNetV2.
+I am passionate about leveraging AI and technology to solve real-world problems. With expertise in **Python**, **Deep Learning**, and **Computer Vision**, I enjoy building impactful projects like **PowerCast** (Electricity Forecasting) and **SkinSense** (Skin Type Detection).
 
 ---
 
@@ -26,29 +26,33 @@ I am passionate about leveraging AI and technology to solve real-world problems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-plain.svg" height="45" alt="streamlit" />
 </div>
 
-### 🧠 Project Highlights: Skincare Recommendation System
+---
+
+### 🧠 Project Highlights
+
+**SkinSense — Skincare Recommendation System**
 * **Model:** Developed using **MobileNetV2** for high-accuracy skin classification.
 * **Deployment:** Integrated a user-friendly UI via **Streamlit**.
 * **Preprocessing:** Implemented image augmentation and normalization using **TensorFlow/Keras**.
 
----
-
-<div align="right">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220" alt="AI GIF" />
-</div>
+**PowerCast — Electricity Demand Forecasting**
+* **Model:** Random Forest with Lag Features achieving **98.1% accuracy**.
+* **Data:** Trained on 12 years of real Germany electricity data (4,383 days).
+* **Deployment:** Live web application deployed on Streamlit Cloud.
+* **Live App:** [powercast.streamlit.app](https://electricity-demand-forecasting-y4yjtw6a9b2xihk5ejedwp.streamlit.app)
 
 ---
 
 ### 🤝 Connect with me
 
 <div align="left">
-  <a href="mailto:saimamengal@gmail.com">
+  <a href="mailto:gulsarwali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/SaimaMengal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/saima-noor-a9a412231/">
+  <a href="https://www.linkedin.com/in/saima-mengal-a9a412231/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
