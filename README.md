@@ -28,7 +28,7 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 
 ---
 
-### 🧠 Project Highlights
+###  Project Highlights
 
 **SkinSense — Skincare Recommendation System**
 * **Model:** Developed using **MobileNetV2** for high-accuracy skin classification.
