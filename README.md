@@ -40,6 +40,12 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 * **Data:** Trained on 12 years of real Germany electricity data (4,383 days).
 * **Deployment:** Live web application deployed on Streamlit Cloud.
 * **Live App:** [powercast.streamlit.app](https://electricity-demand-forecasting-y4yjtw6a9b2xihk5ejedwp.streamlit.app)
+  
+**AI Learning Tutor — Personalized AI Assistant**
+* **Features:** Dynamic lesson planning, AI-powered Q&A across multiple topics (Python, Web Development, AI & ML, Data Science, JavaScript).
+* **Tools:** Next.js, Groq API, TypeScript.
+* **Deployment:** Live web application deployed on Vercel.
+* **Live App:** [ai-tutor-app-flame.vercel.app](https://ai-tutor-app-flame.vercel.app)
 
 ---
 
