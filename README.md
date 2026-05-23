@@ -34,6 +34,7 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 * **Model:** Developed using **MobileNetV2** for high-accuracy skin classification.
 * **Deployment:** Integrated a user-friendly UI via **Streamlit**.
 * **Preprocessing:** Implemented image augmentation and normalization using **TensorFlow/Keras**.
+* **Live App:** [saima-skincare-recommendation.streamlit.app](https://saima-skincare-recommendation.streamlit.app)
 
 **PowerCast — Electricity Demand Forecasting**
 * **Model:** Random Forest with Lag Features achieving **98.1% accuracy**.
