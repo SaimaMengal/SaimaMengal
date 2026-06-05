@@ -38,13 +38,13 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 
 **Chatbot for Intern Queries — GenAI Assistant**
 * **Features:** Developed a 24/7 generative AI chatbot designed to handle complex intern questions regarding tasks, FAQs, and company policies.
-* **Core Tech:** Integrated Natural Language Understanding (NLU) workflows using **Dialogflow / Rasa** and powered text reasoning via **OpenAI API**.
+* **Core Tech:** Integrated Natural Language Understanding (NLU) workflows using **Dialogflow / Rasa** and powered text reasoning via **Gemini API**.
 * **Backend & Knowledge Integration:** Connected securely to Internee.pk's internal knowledge base, built with **Flask**, and structured using **Python**.
 * **Live App:** [GitHub Repository](https://github.com/SaimaMengal) *(Codebase Available)*
 
 **SmartCV.ai — AI Resume Evaluator**
 * **Features:** Built an AI-driven resume assessment system that provides instant ATS benchmarking, deep keyword gap discovery, and tailored career refinement roadmaps by parsing PDF/DOCX files.
-* **Core Tech:** Powered by LLMs via **OpenAI API**, structured with **LangChain**, and integrated with an interactive AI analysis pipeline.
+* **Core Tech:** Powered by LLMs via **Grock API**, structured with **LangChain**, and integrated with an interactive AI analysis pipeline.
 * **Backend & Deployment:** Developed the web tool framework using **Flask** and deployed live on **PythonAnywhere**.
 * **Live App:** [saimanoor38.pythonanywhere.com](https://saimanoor38.pythonanywhere.com/)
 
