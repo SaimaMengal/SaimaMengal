@@ -1,13 +1,17 @@
-## Hi! I am Saima Mengal, and I'm an AI and Machine Learning Developer | Innovator.
+## Hi! I am Saima Mengal, and I'm an AI and Machine Learning Developer.
 
-I am passionate about leveraging AI and technology to solve real-world problems. With expertise in **Python**, **Deep Learning**, and **Computer Vision**, I enjoy building impactful projects like **PowerCast** (Electricity Forecasting) and **SkinSense** (Skin Type Detection).
+I am passionate about leveraging AI and technology to solve real-world problems. With expertise in Python, Deep Learning, and Computer Vision, I enjoy building impactful projects like SmartCV.ai (AI Resume Evaluator), PowerCast (Electricity Forecasting), and SkinSense (Skin Type Detection).
 
----
-
-### 🛠 Skills & Tools
+Skills & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=flask&logoColor=black" height="40" alt="flask" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
   <img width="10" />
@@ -30,6 +34,18 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 
 ###  Project Highlights
 
+**SmartCV.ai — AI Resume Evaluator**
+* **Features:** Built an AI-driven resume assessment system that provides instant ATS benchmarking, deep keyword gap discovery, and tailored career refinement roadmaps by parsing PDF/DOCX files.
+* **Core Tech:** Powered by LLMs via **OpenAI API**, structured with **LangChain**, and integrated with an interactive AI analysis pipeline.
+* **Backend & Deployment:** Developed the web tool framework using **Flask** and deployed live on **PythonAnywhere**.
+* **Live App:** [saimanoor38.pythonanywhere.com](https://saimanoor38.pythonanywhere.com/)
+
+**AI Learning Tutor — Personalized AI Assistant**
+* **Features:** Implemented dynamic lesson planning and AI-powered Q&A across multiple technical topics (Python, Web Development, AI & ML, Data Science, JavaScript).
+* **Tools & Stack:** Built using **Next.js**, **TypeScript**, and powered by the **Groq API**.
+* **Deployment:** Hosted live and optimized on **Vercel**.
+* **Live App:** [ai-tutor-app-flame.vercel.app](https://ai-tutor-app-flame.vercel.app)
+
 **SkinSense — Skincare Recommendation System**
 * **Model:** Developed using **MobileNetV2** for high-accuracy skin classification.
 * **Deployment:** Integrated a user-friendly UI via **Streamlit**.
@@ -41,16 +57,10 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 * **Data:** Trained on 12 years of real Germany electricity data (4,383 days).
 * **Deployment:** Live web application deployed on Streamlit Cloud.
 * **Live App:** [powercast.streamlit.app](https://electricity-demand-forecasting-y4yjtw6a9b2xihk5ejedwp.streamlit.app)
-  
-**AI Learning Tutor — Personalized AI Assistant**
-* **Features:** Dynamic lesson planning, AI-powered Q&A across multiple topics (Python, Web Development, AI & ML, Data Science, JavaScript).
-* **Tools:** Next.js, Groq API, TypeScript.
-* **Deployment:** Live web application deployed on Vercel.
-* **Live App:** [ai-tutor-app-flame.vercel.app](https://ai-tutor-app-flame.vercel.app)
 
 ---
 
-### 🤝 Connect with me
+🤝 Connect with me
 
 <div align="left">
   <a href="mailto:gulsarwali@gmail.com">
