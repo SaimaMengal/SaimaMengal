@@ -1,8 +1,8 @@
 ## Hi! I am Saima Mengal, and I'm an AI and Machine Learning Developer.
 
-I am passionate about leveraging AI and technology to solve real-world problems. With expertise in Python, Deep Learning, and Computer Vision, I enjoy building impactful projects like SmartCV.ai (AI Resume Evaluator), PowerCast (Electricity Forecasting), and SkinSense (Skin Type Detection).
+I am passionate about leveraging AI and technology to solve real-world problems. With expertise in Python, Deep Learning, and Computer Vision, I enjoy building impactful projects like SmartCV.ai (AI Resume Evaluator), Chatbot for Intern Queries, and SkinSense (Skin Type Detection).
 
-Skills & Tools
+🛠 Skills & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
@@ -12,6 +12,8 @@ Skills & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Dialogflow-FF6F61?style=flat&logo=dialogflow&logoColor=white" height="40" alt="dialogflow" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
   <img width="10" />
@@ -33,6 +35,12 @@ Skills & Tools
 ---
 
 ###  Project Highlights
+
+**Chatbot for Intern Queries — GenAI Assistant**
+* **Features:** Developed a 24/7 generative AI chatbot designed to handle complex intern questions regarding tasks, FAQs, and company policies.
+* **Core Tech:** Integrated Natural Language Understanding (NLU) workflows using **Dialogflow / Rasa** and powered text reasoning via **OpenAI API**.
+* **Backend & Knowledge Integration:** Connected securely to Internee.pk's internal knowledge base, built with **Flask**, and structured using **Python**.
+* **Live App:** [GitHub Repository](https://github.com/SaimaMengal) *(Codebase Available)*
 
 **SmartCV.ai — AI Resume Evaluator**
 * **Features:** Built an AI-driven resume assessment system that provides instant ATS benchmarking, deep keyword gap discovery, and tailored career refinement roadmaps by parsing PDF/DOCX files.
