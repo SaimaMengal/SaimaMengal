@@ -34,7 +34,13 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 
 ---
 
-###  Project Highlights
+### Project Highlights
+
+**AI Career Path Recommender — Personalized Career Assistant**
+* **Features:** Designed and built an AI-driven system that inputs intern profiles (skills and interests) to intelligently suggest personalized learning paths, job roles, and track progress over time.
+* **Core Tech & Tools:** Developed using **Python**, **TensorFlow**, and integrated with **Grock API** for smart mapping and recommendations.
+* **Deployment:** Live web application deployed and optimized via **Streamlit**.
+* **Live App:** [ai-career-recommender-saima.streamlit.app](https://ai-career-recommender-saima.streamlit.app/) | [GitHub Repository](https://github.com/SaimaMengal/ai-career-recommender)
 
 **Chatbot for Intern Queries — GenAI Assistant**
 * **Features:** Developed a 24/7 generative AI chatbot designed to handle complex intern questions regarding tasks, FAQs, and company policies.
