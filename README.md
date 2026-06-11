@@ -13,8 +13,6 @@ I am passionate about leveraging AI and technology to solve real-world problems.
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Dialogflow-FF6F61?style=flat&logo=dialogflow&logoColor=white" height="40" alt="dialogflow" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c" />
@@ -38,19 +36,19 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 
 **AI Career Path Recommender — Personalized Career Assistant**
 * **Features:** Designed and built an AI-driven system that inputs intern profiles (skills and interests) to intelligently suggest personalized learning paths, job roles, and track progress over time.
-* **Core Tech & Tools:** Developed using **Python**, **TensorFlow**, and integrated with **Grock API** for smart mapping and recommendations.
+* **Core Tech & Tools:** Developed using **Python**, **TensorFlow**, and integrated with **Groq API** for smart mapping and recommendations.
 * **Deployment:** Live web application deployed and optimized via **Streamlit**.
 * **Live App:** [ai-career-recommender-saima.streamlit.app](https://ai-career-recommender-saima.streamlit.app/) | [GitHub Repository](https://github.com/SaimaMengal/ai-career-recommender)
 
 **Chatbot for Intern Queries — GenAI Assistant**
 * **Features:** Developed a 24/7 generative AI chatbot designed to handle complex intern questions regarding tasks, FAQs, and company policies.
-* **Core Tech:** Integrated Natural Language Understanding (NLU) workflows using **Dialogflow / Rasa** and powered text reasoning via **Gemini API**.
+* **Core Tech:** Powered by **Groq API** (LLaMA 3.3 70B) for fast and accurate natural language understanding and text reasoning.
 * **Backend & Knowledge Integration:** Connected securely to Internee.pk's internal knowledge base, built with **Flask**, and structured using **Python**.
-* **Live App:** [GitHub Repository](https://github.com/SaimaMengal) *(Codebase Available)*
+* **Live App:** [internee-pk-chatbot](https://huggingface.co/spaces/SaimaMengal/internee-pk-chatbot) | [GitHub Repository](https://github.com/SaimaMengal)
 
 **SmartCV.ai — AI Resume Evaluator**
 * **Features:** Built an AI-driven resume assessment system that provides instant ATS benchmarking, deep keyword gap discovery, and tailored career refinement roadmaps by parsing PDF/DOCX files.
-* **Core Tech:** Powered by LLMs via **Grock API**, structured with **LangChain**, and integrated with an interactive AI analysis pipeline.
+* **Core Tech:** Powered by LLMs via **Groq API**, structured with **LangChain**, and integrated with an interactive AI analysis pipeline.
 * **Backend & Deployment:** Developed the web tool framework using **Flask** and deployed live on **PythonAnywhere**.
 * **Live App:** [saimanoor38.pythonanywhere.com](https://saimanoor38.pythonanywhere.com/)
 
