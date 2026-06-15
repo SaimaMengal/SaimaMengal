@@ -34,6 +34,11 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 
 ### Project Highlights
 
+**Generative AI-Based Mock Interviewer — AI Interview Platform**
+* **Features:** Developed an adaptive AI-driven mock interview system that dynamically asks tailored interview questions, analyzes user responses, and provides comprehensive feedback for improvements.
+* **Core Tech & Tools:** Built using **Next.js** and **TypeScript** for the frontend, powered by **Groq API** for sub-second, real-time response generation, and integrated with **Firebase** for data storage and management.
+* **Live App:** [Live Link] | [GitHub Repository](https://github.com/SaimaMengal/ai-mock-interviewer)
+
 **AI Career Path Recommender — Personalized Career Assistant**
 * **Features:** Designed and built an AI-driven system that inputs intern profiles (skills and interests) to intelligently suggest personalized learning paths, job roles, and track progress over time.
 * **Core Tech & Tools:** Developed using **Python**, **TensorFlow**, and integrated with **Groq API** for smart mapping and recommendations.
