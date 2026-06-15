@@ -1,6 +1,6 @@
 ## Hi! I am Saima Mengal, and I'm an AI and Machine Learning Developer.
 
-I am passionate about leveraging AI and technology to solve real-world problems. With expertise in Python, Deep Learning, and Computer Vision, I enjoy building impactful projects like SmartCV.ai (AI Resume Evaluator), Chatbot for Intern Queries, and SkinSense (Skin Type Detection).
+I am passionate about leveraging AI and technology to solve real-world problems. With expertise in Python, Deep Learning, and Computer Vision, I enjoy building impactful projects.
 
 🛠 Skills & Tools
 
@@ -55,25 +55,25 @@ I am passionate about leveraging AI and technology to solve real-world problems.
 * **Features:** Built an AI-driven resume assessment system that provides instant ATS benchmarking, deep keyword gap discovery, and tailored career refinement roadmaps by parsing PDF/DOCX files.
 * **Core Tech:** Powered by LLMs via **Groq API**, structured with **LangChain**, and integrated with an interactive AI analysis pipeline.
 * **Backend & Deployment:** Developed the web tool framework using **Flask** and deployed live on **PythonAnywhere**.
-* **Live App:** [saimanoor38.pythonanywhere.com](https://saimanoor38.pythonanywhere.com/)
+* **Live App:** [saimanoor38.pythonanywhere.com](https://saimanoor38.pythonanywhere.com/) | [GitHub Repository](https://github.com/SaimaMengal/AI-Resume-Evaluator)
 
 **AI Learning Tutor — Personalized AI Assistant**
 * **Features:** Implemented dynamic lesson planning and AI-powered Q&A across multiple technical topics (Python, Web Development, AI & ML, Data Science, JavaScript).
 * **Tools & Stack:** Built using **Next.js**, **TypeScript**, and powered by the **Groq API**.
 * **Deployment:** Hosted live and optimized on **Vercel**.
-* **Live App:** [ai-tutor-app-flame.vercel.app](https://ai-tutor-app-flame.vercel.app)
+* **Live App:** [ai-tutor-app-flame.vercel.app](https://ai-tutor-app-flame.vercel.app) | [GitHub Repository](https://github.com/SaimaMengal/ai-tutor-app)
 
 **SkinSense — Skincare Recommendation System**
 * **Model:** Developed using **MobileNetV2** for high-accuracy skin classification.
 * **Deployment:** Integrated a user-friendly UI via **Streamlit**.
 * **Preprocessing:** Implemented image augmentation and normalization using **TensorFlow/Keras**.
-* **Live App:** [saima-skincare-recommendation.streamlit.app](https://saima-skincare-recommendation.streamlit.app)
+* **Live App:** [saima-skincare-recommendation.streamlit.app](https://saima-skincare-recommendation.streamlit.app) | [GitHub Repository](https://github.com/SaimaMengal/skincare-recommendation-system)
 
 **PowerCast — Electricity Demand Forecasting**
 * **Model:** Random Forest with Lag Features achieving **98.1% accuracy**.
 * **Data:** Trained on 12 years of real Germany electricity data (4,383 days).
 * **Deployment:** Live web application deployed on Streamlit Cloud.
-* **Live App:** [powercast.streamlit.app](https://electricity-demand-forecasting-y4yjtw6a9b2xihk5ejedwp.streamlit.app)
+* **Live App:** [powercast.streamlit.app](https://electricity-demand-forecasting-y4yjtw6a9b2xihk5ejedwp.streamlit.app) | [GitHub Repository](https://github.com/SaimaMengal/electricity-demand-forecasting)
 
 ---
 
